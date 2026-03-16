@@ -1,0 +1,219 @@
+{
+  "industries": [
+    "SaaS",
+    "Pharma",
+    "Freight/3PL",
+    "Staffing/Recruiting",
+    "Healthcare",
+    "Professional Services",
+    "Insurance",
+    "Manufacturing",
+    "Financial Services"
+  ],
+  "callTypeIds": [
+    {
+      "id": "COLD",
+      "label": "Cold Call",
+      "isLocked": false
+    },
+    {
+      "id": "WARM",
+      "label": "Warm Call",
+      "isLocked": false
+    },
+    {
+      "id": "DISCOVERY",
+      "label": "Discovery Call",
+      "isLocked": false
+    },
+    {
+      "id": "DEMO",
+      "label": "Demo Call",
+      "isLocked": false
+    },
+    {
+      "id": "RENEWAL",
+      "label": "Renewal Call",
+      "isLocked": false
+    },
+    {
+      "id": "FREIGHT",
+      "label": "Freight",
+      "isLocked": false
+    },
+    {
+      "id": "UPSELL",
+      "label": "Upsell Call",
+      "isLocked": true
+    },
+    {
+      "id": "PRICING_NEGOTIATION",
+      "label": "Pricing Negotiation Call",
+      "isLocked": true
+    },
+    {
+      "id": "MANAGER_COACHING",
+      "label": "Manager Coaching Call",
+      "isLocked": true
+    }
+  ],
+  "emotionalStateIds": [
+    {
+      "id": "nice",
+      "label": "Nice",
+      "isLocked": false
+    },
+    {
+      "id": "less_rude",
+      "label": "Less Rude",
+      "isLocked": false
+    },
+    {
+      "id": "rude",
+      "label": "Rude",
+      "isLocked": false
+    },
+    {
+      "id": "sassy",
+      "label": "Sassy",
+      "isLocked": false
+    },
+    {
+      "id": "nice_less_inquisitive",
+      "label": "Nice, Less Inquisitive",
+      "isLocked": false
+    },
+    {
+      "id": "less_rude_less_inquisitive",
+      "label": "Less Rude, Less Inquisitive",
+      "isLocked": false
+    }
+  ],
+  "languages": [
+    {
+      "id": "en-US",
+      "label": "English",
+      "isLocked": false
+    },
+    {
+      "id": "es",
+      "label": "Spanish",
+      "isLocked": true
+    },
+    {
+      "id": "fr",
+      "label": "French",
+      "isLocked": true
+    },
+    {
+      "id": "fr-CA",
+      "label": "French-Canadian",
+      "isLocked": true
+    },
+    {
+      "id": "de",
+      "label": "German",
+      "isLocked": true
+    },
+    {
+      "id": "it",
+      "label": "Italian",
+      "isLocked": true
+    },
+    {
+      "id": "pl",
+      "label": "Polish",
+      "isLocked": true
+    },
+    {
+      "id": "pt",
+      "label": "Portuguese",
+      "isLocked": true
+    },
+    {
+      "id": "sv",
+      "label": "Swedish",
+      "isLocked": true
+    },
+    {
+      "id": "ro",
+      "label": "Romanian",
+      "isLocked": true
+    },
+    {
+      "id": "cs",
+      "label": "Czech",
+      "isLocked": true
+    },
+    {
+      "id": "da",
+      "label": "Danish",
+      "isLocked": true
+    },
+    {
+      "id": "nl",
+      "label": "Dutch (NL)",
+      "isLocked": true
+    },
+    {
+      "id": "zh",
+      "label": "Chinese (Mandarin)",
+      "isLocked": true
+    },
+    {
+      "id": "zh-HK",
+      "label": "Cantonese (HK)",
+      "isLocked": true
+    },
+    {
+      "id": "vi",
+      "label": "Vietnamese",
+      "isLocked": true
+    },
+    {
+      "id": "ja",
+      "label": "Japanese",
+      "isLocked": true
+    },
+    {
+      "id": "ko",
+      "label": "Korean",
+      "isLocked": true
+    },
+    {
+      "id": "he-IL",
+      "label": "Hebrew",
+      "isLocked": true
+    },
+    {
+      "id": "gu",
+      "label": "Gujarati",
+      "isLocked": true
+    },
+    {
+      "id": "hi",
+      "label": "Hindi",
+      "isLocked": true
+    },
+    {
+      "id": "id",
+      "label": "Indonesian",
+      "isLocked": true
+    },
+    {
+      "id": "mr",
+      "label": "Marathi",
+      "isLocked": true
+    },
+    {
+      "id": "ta",
+      "label": "Tamil",
+      "isLocked": true
+    },
+    {
+      "id": "th-TH",
+      "label": "Thai",
+      "isLocked": true
+    }
+  ]
+}

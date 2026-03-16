@@ -1,0 +1,125 @@
+{
+  "scorecardConfigId": 10889,
+  "scorecards": [
+    {
+      "criteria": [
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, I can see that the sales rep did not use a permission-based opener. A permission-based opener would involve the rep asking the prospect for permission to take a moment of their time to explain the purpose of the call. In this transcript, the rep simply identified themselves with \"(0:00:03) Rep: Yeah. This is huge. Fine.\" without asking for permission to continue or explaining why they were calling. This led the prospect to ask \"(0:00:06) Prospect: Alright. So what's this about?\" showing that the prospect was left wondering about the purpose of the call.",
+          "criterion": "Permission based opener?",
+          "explanation": "open ended questions",
+          "improvement": "The sales rep could have used a permission-based opener by saying something like: \"Hello, this is Hugh Fine from [Company Name]. I know you weren't expecting my call - would you mind if I took 30 seconds to explain why I'm calling today?\" This approach acknowledges the prospect's time, asks for permission to continue, and sets a clear expectation for how long the initial explanation will take. This would have been more respectful and professional than the current response, which left the prospect having to ask about the purpose of the call."
+        },
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, I found no evidence that the sales rep conducted any research on the prospect prior to the call. The entire conversation is very brief, consisting of just three exchanges. When the prospect answers with \"(0:00:01) Hello. Who is this?\", the rep simply responds with \"(0:00:03) Yeah. This is huge. Fine.\" which appears to be just an introduction of their name (though possibly transcribed incorrectly). Then when the prospect asks \"(0:00:06) Alright. So what's this about?\", the transcript ends without showing any response from the rep. At no point does the rep mention any personal facts about the prospect, information about their prior work history, details about their current job, or demonstrate any knowledge about the prospect's role or background.",
+          "criterion": "Used research on prospect?",
+          "explanation": "sales rep criterion",
+          "improvement": "The sales rep could have demonstrated prior research by incorporating specific details about the prospect into their introduction. For example, after introducing themselves, they could have said something like: \"I noticed you've been working as [prospect's role] at [company name] for [time period]\" or \"I saw your recent [achievement/publication/post] about [topic]\" or \"I understand your team has been focusing on [relevant initiative].\" This personalized approach would show the prospect that the rep has taken time to learn about them and their business challenges, establishing credibility and building rapport from the start of the conversation."
+        }
+      ],
+      "maxScore": 2,
+      "description": "How well you opened up the call",
+      "sectionTitle": "Opener",
+      "achievedScore": 0,
+      "totalCriteriaCount": 2,
+      "passedCriteriaCount": 0
+    },
+    {
+      "criteria": [
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, I can see that the sales rep did not ask if the prospect was familiar with the product they were trying to sell. The entire conversation consists of only three exchanges: the prospect's greeting and asking who is calling, the rep's introduction '(0:00:03) Rep: Yeah. This is huge. Fine.', and the prospect asking what the call is about '(0:00:06) Prospect: Alright. So what's this about?'. At no point does the sales rep inquire about the prospect's familiarity with any product.",
+          "criterion": "SDR asked for preconceptions of product?",
+          "explanation": "open ended questions",
+          "improvement": "The sales rep should have properly introduced themselves and their company after the prospect's greeting, and then asked if the prospect was familiar with their product. For example, after saying '(0:00:03) Rep: Yeah. This is huge. Fine.' (which appears to be a transcription error of the rep's name), the rep could have continued with something like: 'I'm calling from [Company Name]. I'm wondering if you're familiar with our [Product/Service] that helps businesses with [key benefit]?' This would establish context for the call and gauge the prospect's knowledge level, allowing the rep to tailor their pitch accordingly."
+        }
+      ],
+      "maxScore": 1,
+      "description": "How well you opened up the call",
+      "sectionTitle": "Discovery",
+      "achievedScore": 0,
+      "totalCriteriaCount": 1,
+      "passedCriteriaCount": 0
+    },
+    {
+      "criteria": [
+        {
+          "passed": false,
+          "coaching": "After reviewing the entire transcript, I found no evidence of the sales rep providing any social proof to the prospect. Social proof would include mentioning other customers who have found value in their product, sharing testimonials, case studies, reviews, or statistics about their customer base. In this very brief exchange, the rep only identified himself as \"(0:00:03) This is huge. Fine\" and did not provide any information about the product or service, let alone evidence that others have found value in it. The conversation ends with the prospect asking \"(0:00:06) Alright. So what's this about?\" which indicates the rep had not yet explained the purpose of the call or provided any product information or social proof.",
+          "criterion": "Provided social proof?",
+          "explanation": "sales rep criterion",
+          "improvement": "The sales rep could have provided social proof by introducing themselves properly and then mentioning how their product or service has helped similar companies or individuals. For example, after introducing themselves, they could have said something like: \"I'm calling because we've helped [number] companies in your industry increase [specific metric] by [percentage]. For instance, [Company Name] saw [specific result] within [timeframe] of using our solution.\" This would establish credibility through social proof early in the conversation and give the prospect a reason to continue the discussion."
+        },
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, I can see that the sales rep did not provide any social proof to the prospect. The entire conversation is very brief and consists of only three exchanges: the prospect's greeting at (0:00:01), the rep's introduction at (0:00:03), and the prospect asking what the call is about at (0:00:06). The sales rep simply says \"(0:00:03) This is huge. Fine.\" which appears to be the rep identifying themselves, though somewhat unclearly. There is no instance where the rep shares any customer success stories, testimonials, case studies, or other forms of social proof that would require following up with questions about relevance.",
+          "criterion": "Asked if social proof was relevant?",
+          "explanation": "sales rep criterion",
+          "improvement": "Since the rep didn't provide any social proof in the first place, they should first incorporate relevant social proof into their conversation, such as mentioning successful client outcomes or testimonials that might resonate with this prospect. After sharing such social proof, the rep should then follow up with questions like \"Is that something you're experiencing as well?\" or \"Does that challenge sound familiar to your organization?\" to confirm relevance. Additionally, the rep should have provided a clearer introduction and explained the purpose of the call after identifying themselves, rather than waiting for the prospect to ask \"(0:00:06) Alright. So what's this about?\""
+        }
+      ],
+      "maxScore": 2,
+      "description": "How well you opened up the call",
+      "sectionTitle": "Social Proof",
+      "achievedScore": 0,
+      "totalCriteriaCount": 2,
+      "passedCriteriaCount": 0
+    },
+    {
+      "criteria": [
+        {
+          "passed": false,
+          "coaching": "After reviewing the entire transcript, I can see that there was no follow-up meeting scheduled between the sales rep and the prospect. The conversation was extremely brief (less than 7 seconds total) and consisted of only three exchanges: the prospect's greeting, the rep's introduction, and the prospect asking what the call was about. The transcript ends at (0:00:06) with the prospect saying \"Alright. So what's this about?\" There was no discussion about scheduling a meeting, no agreement on a date or time, and consequently, no re-confirmation of any appointment details.",
+          "criterion": "Re-confirmed that the time works for the prospect?",
+          "explanation": "sales rep criterion",
+          "improvement": "Since no follow-up meeting was even discussed in this very brief call, the sales rep should have continued the conversation beyond the initial introduction. The rep should have clearly explained the purpose of the call at (0:00:06) when the prospect asked \"So what's this about?\" Then, if appropriate, the rep should have proposed a specific follow-up meeting with a clear date and time, confirmed the prospect's availability for that slot, and re-confirmed the details before ending the call. For example, after scheduling, the rep could say something like: \"So just to confirm, we'll meet virtually on [specific date] at [specific time]. Does that still work with your schedule?\""
+        },
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, I can confirm the rep did not ask what would make the next call successful for the prospect. The entire conversation was very brief (under 7 seconds total) and consisted of only three exchanges: the prospect's greeting, the rep's introduction, and the prospect asking what the call was about. The rep never reached the point of discussing a next call or asking about the prospect's goals or success criteria for future interactions. The conversation ended with the prospect asking \"(0:00:06) Alright. So what's this about?\" with no response from the rep shown in the transcript.",
+          "criterion": "Asked for success criteria for next call?",
+          "explanation": "sales rep criterion",
+          "improvement": "The rep should have properly introduced themselves, explained the purpose of the current call, and then specifically asked what would make a follow-up conversation valuable for the prospect. After addressing the prospect's question \"(0:00:06) Alright. So what's this about?\", the rep could have said something like: \"I'm calling to briefly discuss how our solution helps companies like yours improve [specific benefit]. I'd like to schedule a more detailed conversation where we can dive deeper into your specific needs. To make that call as productive as possible for you, may I ask what would make that next conversation successful from your perspective?\" This approach would demonstrate respect for the prospect's time and a genuine interest in addressing their specific needs."
+        }
+      ],
+      "maxScore": 2,
+      "description": "How well you opened up the call",
+      "sectionTitle": "Takeaway",
+      "achievedScore": 0,
+      "totalCriteriaCount": 2,
+      "passedCriteriaCount": 0
+    },
+    {
+      "criteria": [
+        {
+          "passed": false,
+          "coaching": "Based on the transcript, there was no agreement on next steps between the sales rep and prospect. The conversation was very brief and ended with the prospect asking '(0:00:06) Prospect: Alright. So what's this about?' The sales rep did not propose any next steps, schedule a follow-up meeting, or establish any action items. The entire call lasted less than 7 seconds according to the stats, which is too brief for a complete sales conversation that would include next steps.",
+          "criterion": "Next steps agreed upon?",
+          "explanation": "sales rep criterion",
+          "improvement": "The sales rep could have improved this interaction by: 1) Properly introducing themselves and their company after the prospect asked '(0:00:01) Prospect: Hello. Who is this?' 2) Clearly explaining the purpose of the call when the prospect asked '(0:00:06) Prospect: Alright. So what's this about?' 3) After explaining the purpose, the rep should have proposed specific next steps such as scheduling a demo, sending additional information, or setting up a follow-up call with clear dates and times. 4) The rep should have confirmed the prospect's agreement to these next steps and summarized the action items before ending the call. The extremely short duration of the call (6.96 seconds) suggests the rep didn't properly develop the conversation to reach the point where next steps could be discussed."
+        },
+        {
+          "passed": false,
+          "coaching": "After reviewing the transcript, there is no evidence that the sales rep and prospect agreed on a follow-up meeting or demo call. The conversation is very brief (only 6.96 seconds total) and consists of just three exchanges: an initial greeting from the prospect \"(0:00:01) Hello. Who is this?\", the rep's introduction \"(0:00:03) Yeah. This is huge. Fine.\" (which appears to have some transcription issues), and the prospect asking about the purpose of the call \"(0:00:06) Alright. So what's this about?\". The conversation ends there without any discussion of a follow-up meeting, demo, or next steps.",
+          "criterion": "Follow-up meeting booked?",
+          "explanation": "sales rep criterion",
+          "improvement": "The sales rep could have improved this interaction by: 1) Clearly introducing themselves with their full name and company instead of the unclear \"(0:00:03) Yeah. This is huge. Fine.\" which may be a transcription error; 2) Immediately providing a concise value proposition after introducing themselves to answer the prospect's question \"(0:00:06) Alright. So what's this about?\"; 3) Asking discovery questions to understand the prospect's needs; 4) Based on the prospect's responses, suggesting a specific follow-up meeting or demo with a clear purpose and value proposition; and 5) Proposing specific dates and times for the follow-up. The rep missed the opportunity to respond to the prospect's direct question about the purpose of the call, which was a critical moment to engage the prospect and move toward scheduling a follow-up meeting."
+        }
+      ],
+      "maxScore": 2,
+      "description": "How well you opened up the call",
+      "sectionTitle": "Closing",
+      "achievedScore": 0,
+      "totalCriteriaCount": 2,
+      "passedCriteriaCount": 0
+    }
+  ],
+  "totalScore": 9,
+  "passedScore": 0,
+  "aggregateScore": null,
+  "finalCallScore": 0,
+  "metadata": {
+    "summary": "**What to improve:**\n- Introduce yourself clearly and professionally with your full name and company, rather than the unclear \"Yeah. This is huge. Fine.\"\n- Use a permission-based opener that explains the purpose of your call and acknowledges the prospect's time.\n- Prepare research on the prospect to personalize the conversation and demonstrate value upfront when asked \"So what's this about?\"\n\n**What went well:**\n- You answered the call promptly when the prospect picked up.\n- You attempted to identify yourself when asked.\n- You allowed the prospect to speak without interruption."
+  }
+}

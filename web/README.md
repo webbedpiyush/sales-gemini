@@ -126,6 +126,30 @@ Notes:
 - Do not commit `.env.local`.
 - In deployment, configure env vars on Cloud Run service settings.
 
+## Architecture Diagram
+
+Use this diagram for Devpost Image Gallery or File Upload.
+
+```mermaid
+flowchart LR
+  salesRep["SalesRepBrowser(Next.jsUI)"] -->|"GET /api/agents"| nextApi["NextApiRoutes"]
+  salesRep -->|"POST /api/live/session"| nextApi
+  salesRep -->|"POST /api/scorecard/generate"| nextApi
+  salesRep -->|"WebSocket audio stream"| geminiLive["GeminiLiveAPI(BidiGenerateContent)"]
+  nextApi -->|"Persona + scorecard datasets"| localData["LocalJsonDataLayer"]
+  nextApi -->|"Generate scorecard JSON"| geminiScore["GeminiGenerateContentAPI"]
+  geminiScore -->|"Structured scorecard response"| nextApi
+  geminiLive -->|"Buyer audio + transcriptions"| salesRep
+  nextApi -->|"Session bootstrap + scoring payload"| salesRep
+```
+
+### Data Flow Summary
+
+- Browser calls Next.js APIs for session bootstrap and scorecard generation.
+- Browser streams microphone audio directly to Gemini Live over WebSocket.
+- Next.js scoring route sends transcript to Gemini text API and normalizes JSON output.
+- Roleplay personas and rubric are loaded from local JSON datasets in the app.
+
 ## GCP Deployment (Cloud Run)
 
 1. Install and authenticate Google Cloud CLI:
